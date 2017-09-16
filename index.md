@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Google Translate
 
-You can use the [editor on GitHub](https://github.com/emelo2/VR/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Being able to instantly translate foreign languages into a language you can understand can be used in different ways.   Everywhere in the world there are signs, billboards, street names and many other signs with words.  If you go somewhere where you can’t understand their languages it could definitely be useful to be able to read signs and see where you are.  Another more useful way would be while working with other people that speak other languages, if working in a group sometimes you can be more comfortable working in your language and it can be possible to share paperwork written in the language you are more comfortable and have it be translated as you read.  If we lived in a world where everything would be translated to our preferred language then our social skills will be affected.  English is the most spoken language in the world and it is a way for people to interact with each other, but even if two people do not speak the same language they find a way to understand each other.  My mom and our Italian neighbor are an example of that, our neighbor does not speak English and my mom speaks both English and Spanish and somehow they manage to have conversations.  If we could easily read things in a language we understand we would stop trying to read other languages which could lead to feeling less comfortable trying to speak to others in other languages or even try to learn another language.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](1.jpg) ![Image](2.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emelo2/VR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
