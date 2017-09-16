@@ -1,4 +1,4 @@
-##Pros/Cons of AR/VR
+## Pros/Cons of AR/VR
 
 Advantages of CAVE2 are that it’s bigger and multiple people can view and experience the
 platform at the same time. The screens are able to depict a very crisp and colorful images, this means
