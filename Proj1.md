@@ -1,4 +1,6 @@
-Project 3 involved designing an office where we normally have class.  It was interesting trying to find objects and designing them as well in order to fit my taste.  It was a great way to get started on unity.  For my project I added textures to the floor and walls: 
+[Home](index.md)
+
+Project 1 involved designing an office where we normally have class.  It was interesting trying to find objects and designing them as well in order to fit my taste.  It was a great way to get started on unity.  For my project I added textures to the floor and walls: 
 ![Image](floor.png)  
 
 I created a work area, a meeting area, a fun area and a relaxation area.  
@@ -28,7 +30,7 @@ Most of the small objects are interactive and can be stacked up.
 ![Image](stack.png)  
 ![Image](work.png)  
 
-Also the rolling chair makes a rolling noise when near it, it was supposed to be animated, but since I added a rigidbody, it lost the animation.  
+Also the rolling chair makes a rolling noise when near it, it was supposed to be animated, but since I added a rigidbody, it lost the animation.  The audio was downloaded from freesound.org 
 
 The room looks like it could be real life, but the problem is navigating.  When moving around, it does not feel that real, when walking around it is easier to tell that some objects are not proportionate with the room, or with other objects.  It was hard to scale certain object mostly because my laptop is on the slower side, so it would get stuck a lot. 
 
