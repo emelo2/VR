@@ -1,5 +1,7 @@
 [Home](index.md)
 
+## Project 1
+
 Project 1 involved designing an office where we normally have class.  It was interesting trying to find objects and designing them as well in order to fit my taste.  It was a great way to get started on unity.  For my project I added textures to the floor and walls: 
 ![Image](floor.png)  
 
