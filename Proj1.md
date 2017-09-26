@@ -2,7 +2,8 @@
 
 ## Project 1
 
-[link to project zip file](https://drive.google.com/open?id=0Bz_JXbTbkTpETHBEbHlQZm11NVU)
+[link to project zip file](https://drive.google.com/open?id=0Bz_JXbTbkTpETHBEbHlQZm11NVU)  
+[link to YouTube vid](https://youtu.be/dXpNyJ-v-cA)
 
 Project 1 involved designing an office where we normally have class.  It was interesting trying to find objects and designing them as well in order to fit my taste.  It was a great way to get started on unity.  For my project I added textures to the floor and walls: 
 ![Image](floor.png)  
