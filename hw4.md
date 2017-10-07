@@ -12,5 +12,5 @@ It could have been nice for there to be a way to turn things up.  Another nice p
 Another really fun project was the one by Peter Hanula. His project was very amusing because it had a lot of cats which meowed or purred.  
 ![image4](pic4.png)  
 The project also seemed to have a good layout, with enough space to walk around the furniture. There was also fruit in the back of the room that could be picked up and thrown, but I still wanted to pick up other object which did not have physics.  
-![image5}(pic5.png)  
+![image5](pic5.png)  
 Another thing that I did like was that when the lights were turned off there was glow in the dark stars on the ceiling. I thought that was very creative and different.
