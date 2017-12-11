@@ -15,9 +15,10 @@ I plan to use free 3D objects from the Unity asset store as well.
 The final product did not completely turn out like the proposal, the player still needs to get to grandmother's house, but there are only three obstacles. Obstacle 1: The player must collect a total of 20 apples before getting to the house. Obstacle 2: The player must fight off the wolves. Obstacle 3: Everything must be completed under a certain time. Originally it was imagined that the game would be for a younger audience, but now the player is using a gun to fight off the wolves.  
   
 ### Description: 
-             Teleporting to navigate (Left Controller) - trigger (activate laser) + touchpad press (Teleport)  
-             Grabbing: Grip press(pick up), Grip press (let go)
-             Shooting (Right Controller): Trigger  
+Teleporting to navigate (Left Controller): **Trigger** (activate laser) + **Touchpad press** (Teleport)  
+Grabbing: **Grip press**(pick up), **Grip press** (let go)  
+Shooting (Right Controller): **Trigger**  
+
 ### Development:  
 The game was built in Unity 3D along with SteamVR and VRTK toolkit.  The game contains a wolf AI which spawns in a corner of the terrain.  There is also a a VR canvas which follows the headset and contains the player information: Time, Apple Count and Health. There will also be apples and apple trees which the player will be able to collect.
   
