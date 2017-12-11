@@ -12,10 +12,10 @@ I plan to use free 3D objects from the Unity asset store as well.
 
 ## Final Product
 
-The final product did not completly turn out like the proposal, the player still needs to get to grandmother's house, but there are only three obstacles. Obstacle 1: The player must collect a total of 20 apples before getting to the house. Obstacle 2: The player must fight off the wolves. Obstacle 3: Everything must be completed under a certain time. Originally it was imagined that the game would be for a younger audience, but now the player is using a gun to fight off the volves.  
+The final product did not completely turn out like the proposal, the player still needs to get to grandmother's house, but there are only three obstacles. Obstacle 1: The player must collect a total of 20 apples before getting to the house. Obstacle 2: The player must fight off the wolves. Obstacle 3: Everything must be completed under a certain time. Originally it was imagined that the game would be for a younger audience, but now the player is using a gun to fight off the wolves.  
   
 ### Description: 
-             Teleporting to navigate (Left Controller) - trigger (activate lazer) + touchpad press (Teleport)  
+             Teleporting to navigate (Left Controller) - trigger (activate laser) + touchpad press (Teleport)  
              Grabbing: Grip press(pick up), Grip press (let go)
              Shooting (Right Controller): Trigger  
 ### Development:  
