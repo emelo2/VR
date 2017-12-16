@@ -42,5 +42,7 @@ The game was built in Unity 3D along with SteamVR and VRTK toolkit.  The game co
 
 ## Executable and Assets  
 [link](https://drive.google.com/open?id=13Ucr12vYCrVooqJSqgWW6onZa8wVjiLe)  
+  
+[Completed](https://drive.google.com/open?id=1w0AKeFVRSDCLYkp-SwSKcdou0DE-W9jS)
 
 
