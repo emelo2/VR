@@ -24,12 +24,20 @@ The game was built in Unity 3D along with SteamVR and VRTK toolkit.  The game co
   
 ### Assets:  
     
-Denish2010. "Wolf Rigged Animated and Game Ready Free VR / AR / low-poly 3D model". 2017, Sept 27. [link](https://www.cgtrader.com/free-3d-models/animals/mammal/wolf-rigged-animated-and-game-ready)
+**- Wolf** Denish2010. "Wolf Rigged Animated and Game Ready Free VR / AR / low-poly 3D model". 2017, Sept 27. [link](https://www.cgtrader.com/free-3d-models/animals/mammal/wolf-rigged-animated-and-game-ready)
 3D model of a a wolf that was rigged and animated.  
   
-Unity Standard Assets - Terrain  
-
-Vassbakk, K. (2015, November 13). Low Poly RTS House [3D image of a house]. Retrieved November 25, 2017, from [link](https://www.assetstore.unity3d.com/en/#!/content/17748)  
+**- Terrain** Unity Standard Assets - Terrain  
+  
+**- House** Vassbakk, K. (2015, November 13). Low Poly RTS House [3D image of a house]. Retrieved November 25, 2017, from [link](https://www.assetstore.unity3d.com/en/#!/content/17748)  
+  
+**- Gun** Bugrov, I. (2017, May 1). 1911 Pistol Pack [Gun]. Retrieved December 10, 2017, from [link](https://www.assetstore.unity3d.com/en/#!/content/88439) 
+  
+**- Basket** Basket. Retrieved December 10, 2017, from [link](https://www.cgtrader.com/items/598787/download-page#_=_)  
+  
+**- Shooting Sound** Raffaele. Futuristic Weapon Set. Retrieved December 10, 2017, from [link](https://www.assetstore.unity3d.com/en/#!/content/15644).  
+  
+**- Enviroment Music** Ujico. Snail House [Enviroment Music]. Retrieved December 10, 2017, from [link](https://0101.bandcamp.com/).
 
 ## Executable and Assets  
 [link](https://drive.google.com/open?id=13Ucr12vYCrVooqJSqgWW6onZa8wVjiLe)  
