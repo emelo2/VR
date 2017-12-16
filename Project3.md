@@ -15,6 +15,7 @@ I plan to use free 3D objects from the Unity asset store as well.
 The final product did not completely turn out like the proposal, the player still needs to get to grandmother's house, but there are only three obstacles. Obstacle 1: The player must collect a total of 20 apples before getting to the house. Obstacle 2: The player must fight off the wolves. Obstacle 3: Everything must be completed under a certain time. Originally it was imagined that the game would be for a younger audience, but now the player is using a gun to fight off the wolves.  
   
 ### Description: 
+The player must collect apples by putting them in a basket, once the player has 20 apples they must go to the house in order to win. If the player runs out of time or dies by getting attacked by wolves it is game over, if the player reaches the door of the house alive, with time left over and has 20 apples then they win.  
 Teleporting to navigate (Left Controller): **Trigger** (activate laser) + **Touchpad press** (Teleport)  
 Grabbing: **Grip press**(pick up), **Grip press** (let go)  
 Shooting (Right Controller): **Trigger**  
